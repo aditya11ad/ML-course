@@ -2,8 +2,12 @@
 Best for beginners  |  Well explained ML algorithms | organized Notebooks | Case Studies
 
 ***
-- This repository contains a topic-wise Machine Learning and Deep Learning tutorial notebooks.
+- This repository contains a topic-wise Machine Learning tutorial notebooks.
 
 - It's for teaching you the fundamentals of Machine Learning in python. 
 
-- It contains the example code.
+
+- Run these 1 to 14 .ipynb (python notebook) files in jupyter notebook.
+
+
+# Thanks :)
